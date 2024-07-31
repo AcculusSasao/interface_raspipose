@@ -1,0 +1,8 @@
+numpy
+scipy
+tflite_runtime
+opencv-python
+mediapipe
+matplotlib
+#torch==2.3.0
+typing_extensions
